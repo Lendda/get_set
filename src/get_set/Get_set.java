@@ -16,7 +16,6 @@ public class Get_set {
      */
     public static void main(String[] args) {
         //e ai jdfjdhfohjaon
-        
     }
     
 }
